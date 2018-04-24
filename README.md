@@ -16,8 +16,16 @@ Curated Podcast Learning Paths
 1. Setup Git -> AWS integration **0/5**
 1. Build [Landing Page](https://s3.amazonaws.com/aws-website-matt-fe1iw/index.html) website **1/5**
 1. Build Onboarding [test](https://www.typeform.com/help/create-a-quiz/) for optimized learning path **0/5**
+1. Setup monetization / pateron account **0/5**
 1. ...
 1. ...? Learning? Amazing!
+
+## Future Features
+1. Customized learning paths
+1. Audio-to-Text to more accurately identify scope of content
+1. App to quiz listeners
+1. Custom recorded bridging audio to summarize
+
 
 
 
