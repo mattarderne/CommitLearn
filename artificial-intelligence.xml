@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>AI listening list</title>
+    <link>https://podcastapp.io/playlists/</link>
+    <description>All the podcasts you need to #get-good with AI</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Thu, 19 Apr 2018 11:15:37 +0000</lastBuildDate>
+    <itunes:image href="https://s3.amazonaws.com/aws-website-matt-fe1iw/AI.png"/>
+    <item>
+      <title>1: The McKinsey Podcast - How to win in the age of analytics</title>
+      <link>http://podcasts.mckinsey.com/podcast/MP-How-to-win-in-the-age-of-analytics.mp3?pc=main&amp;pu=http%3A%2F%2Fwww.mckinsey.com%2Fassets%2Fdotcom%2Fthe-mckinsey-podcast%2FMP-How-to-win-in-the-age-of-analytics.mp3&amp;pn=How+to+win+in+the+age+of+analytics</link>
+      <description>There’s greater potential in big data. What’s ahead as the field matures?</description>
+      <guid isPermaLink="false">http://podcasts.mckinsey.com/podcast/MP-How-to-win-in-the-age-of-analytics.mp3?pc=main&amp;pu=http%3A%2F%2Fwww.mckinsey.com%2Fassets%2Fdotcom%2Fthe-mckinsey-podcast%2FMP-How-to-win-in-the-age-of-analytics.mp3&amp;pn=How+to+win+in+the+age+of+analytics</guid>
+      <enclosure url="http://podcasts.mckinsey.com/podcast/MP-How-to-win-in-the-age-of-analytics.mp3?pc=main&amp;pu=http%3A%2F%2Fwww.mckinsey.com%2Fassets%2Fdotcom%2Fthe-mckinsey-podcast%2FMP-How-to-win-in-the-age-of-analytics.mp3&amp;pn=How+to+win+in+the+age+of+analytics" length="0" type="audio/mpeg"/>
+    </item>
+     <item>
+      <title>2: The McKinsey Podcast - Artificial intelligence in business: Separating the real from the hype</title>
+      <link>http://podcasts.mckinsey.com/podcast/MP-Artificial-intelligence-in-business-Separating-the-real-from-the-hype.mp3?pc=main&amp;pu=http%3A%2F%2Fwww.mckinsey.com%2Fassets%2Fdotcom%2Fthe-mckinsey-podcast%2FMP-Artificial-intelligence-in-business-Separating-the-real-from-the-hype.mp3&amp;pn=Artificial+intelligence+in+business%3A+Separating+the+real+from+the+hype</link>
+      <description>The potential for AI to infuse business and value chains across various industries is greater than ever before—but where should executives start?</description>
+      <guid isPermaLink="false">http://podcasts.mckinsey.com/podcast/MP-Artificial-intelligence-in-business-Separating-the-real-from-the-hype.mp3?pc=main&amp;pu=http%3A%2F%2Fwww.mckinsey.com%2Fassets%2Fdotcom%2Fthe-mckinsey-podcast%2FMP-Artificial-intelligence-in-business-Separating-the-real-from-the-hype.mp3&amp;pn=Artificial+intelligence+in+business%3A+Separating+the+real+from+the+hype</guid>
+      <enclosure url="http://podcasts.mckinsey.com/podcast/MP-Artificial-intelligence-in-business-Separating-the-real-from-the-hype.mp3?pc=main&amp;pu=http%3A%2F%2Fwww.mckinsey.com%2Fassets%2Fdotcom%2Fthe-mckinsey-podcast%2FMP-Artificial-intelligence-in-business-Separating-the-real-from-the-hype.mp3&amp;pn=Artificial+intelligence+in+business%3A+Separating+the+real+from+the+hype" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+     
+
+    <item>
+      <title>3: a16z - a16z Podcast: Revenge of the Algorithms (Over Data)... Go! No?</title>
+      <link>http://feeds.soundcloud.com/stream/348134335-a16z-algorithms-data-reinforcementlearning-alphago.mp3</link>
+      <description>with Frank Chen, Steven Sinofsky, and Sonal Chokshi
+
+There are many reasons why we’re in an “A.I. spring” after multiple “A.I. winters” — but how then do we tease apart what’s real vs. what’s hype when it comes to the (legitimate!) excitement about artificial intelligence and machine learning? Especially when it comes to the latest results of computers beating games, which not only captures our imaginations but has always played a critical role in advancing machine intelligence (whether it’s AI winning Texas Hold’em poker or beating the world human champ in the ancient Chinese game of Go).
+
+But on learning that Google DeepMind’s AlphaGo can master the game of Go without human knowledge — or more precisely: “based solely on reinforcement learning, without human data, guidance, or domain knowledge beyond game rules” — some people leap too far towards claims of artificial generalized intelligence. So where can we then generalize the findings of such work — unsupervised learning, self-play, etc. — to other specific domains? What does it mean for entrepreneurs building companies (and what investors look for)? And what does it mean for how we, as humans, learn… or rather, how computers can also learn from how we learn?
+
+Deal and research operating team head Frank Chen and a16z board partner Steven Sinofsky ponder all this and more, in conversation with Sonal Chokshi, in this episode of the a16z Podcast. We ended last time with the triumph of data over algorithms and begin this time with the triumph of algorithms over data … is this the end of big data?</description>
+      <guid isPermaLink="false">http://feeds.soundcloud.com/stream/348134335-a16z-algorithms-data-reinforcementlearning-alphago.mp3</guid>
+      <enclosure url="http://feeds.soundcloud.com/stream/348134335-a16z-algorithms-data-reinforcementlearning-alphago.mp3" length="0" type="audio/mpeg"/>
+    </item>
+
+     <title>4: Stanford Social Innovation Review Podcast - Prediction vs. Bias in Data: A Debate</title>
+      <link>http://s3-us-west-1.amazonaws.com/ssireview.org/podcasts/LumThille.mp3</link>
+      <description>This panel from our Do Good Data | Data on Purpose conference features conference co-hosts Lucy Bernholz of Stanford PACS and Andrew Means of Uptake, along with Stanford education professor Candace Thille, and Kristian Lum, lead statistician at the Human Rights Data Analysis Group. The discussion focuses on the advantages and drawbacks of using data to analyze social trends in areas including higher education and criminal justice.
+ 
+  
+
+View the slides from this presentation here.https://ssir.org/podcasts/entry/prediction_vs._bias_in_data_a_debate</description>
+      <guid isPermaLink="false">http://s3-us-west-1.amazonaws.com/ssireview.org/podcasts/LumThille.mp3</guid>
+      <enclosure url="http://s3-us-west-1.amazonaws.com/ssireview.org/podcasts/LumThille.mp3" length="0" type="audio/mpeg"/>
+    </item>
+   
+    <item>
+      <title>5: a16z - a16z Podcast: On Data and Data Scientists in the Age of AI</title>
+      <link>http://feeds.soundcloud.com/stream/365514884-a16z-data-science-ai-practice.mp3</link>
+      <description>Data, data, everywhere, nor any drop to drink. Or so would say Coleridge, if he were a big company CEO trying to use A.I. today -- because even when you have a ton of data, there's not always enough signal to get anything meaningful from AI.
+
+Why? Because, "like they say, it's 'garbage in, garbage out' -- what matters is what you have in between," reminds Databricks co-founder (and director of the RISElab at U.C. Berkeley) Ion Stoica. And even then it's still not just about data operations, emphasizes SigOpt co-founder Scott Clark; your data scientists need to really understand "What's actually right for my business and what am I actually aiming for?" And then get there as efficiently as possible.
+
+But beyond defining their goals, how do companies get over the "cold start" problem when it comes to doing more with AI in practice, asks a16z operating partner Frank Chen (who also released a microsite on getting started with AI earlier this year)? The guests on this short "a16z Bytes" episode of the a16z Podcast -- based on a conversation that took place at our recent annual Summit event -- share practical advice about this and more.</description>
+      <guid isPermaLink="false">http://feeds.soundcloud.com/stream/365514884-a16z-data-science-ai-practice.mp3</guid>
+      <enclosure url="http://feeds.soundcloud.com/stream/365514884-a16z-data-science-ai-practice.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>6: This Week in Machine Learning &amp; AI Podcast - Security and Safety in AI: Adversarial Examples, Bias and Trust w/ Moustapha Cissé - TWiML Talk #108</title>
+      <link>http://feeds.soundcloud.com/stream/395109459-twiml-twiml-talk-108-security-safety-ai-adversarial-examples-bias-trust-moustapha-cisse.mp3</link>
+      <description>In this episode I’m joined by Moustapha Cissé, Research Scientist at Facebook AI Research Lab (or FAIR) Paris.
+
+Moustapha’s broad research interests include the security and safety of AI systems, and we spend some time discussing his work on adversarial examples and systems that are robust to adversarial attacks. More broadly, we discuss the role of bias in datasets, and explore his vision for models that can identify these biases and adjust the way they train themselves in order to avoid taking on those biases.
+
+Be sure to check out some of the great names that will be at the AI Conference in New York, Apr 29–May 2, where you'll join the leading minds in AI, Peter Norvig, George Church, Olga Russakovsky, Manuela Veloso, and Zoubin Ghahramani. Explore AI's latest developments, separate what's hype and what's really game-changing, and learn how to apply AI in your organization right now. Save 20% on most passes with discount code PCTWIML at twimlai.com/ainy2018. Early price ends February 2!
+
+The notes for this show can be found at twimlai.com/talk/108.
+For complete contest details, visit twimlai.com/myaicontest. 
+For complete series details, visit twimlai.com/blackinai2018.</description>
+      <guid isPermaLink="false">http://feeds.soundcloud.com/stream/395109459-twiml-twiml-talk-108-security-safety-ai-adversarial-examples-bias-trust-moustapha-cisse.mp3</guid>
+      <enclosure url="http://feeds.soundcloud.com/stream/395109459-twiml-twiml-talk-108-security-safety-ai-adversarial-examples-bias-trust-moustapha-cisse.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
