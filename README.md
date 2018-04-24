@@ -14,9 +14,11 @@ Curated Podcast Learning Paths
 ## Roadmap
 1. Build a POC example **3/5**
 1. Setup Git -> AWS integration **0/5**
+1. Build [Landing Page](https://s3.amazonaws.com/aws-website-matt-fe1iw/index.html) website **1/5**
+1. Build Onboarding [test](https://www.typeform.com/help/create-a-quiz/) for optimized learning path **0/5**
 1. ...
 1. ...? Learning? Amazing!
 
 
-[Landing Page](https://s3.amazonaws.com/aws-website-matt-fe1iw/index.html)
+
 [Google Doc for now](https://docs.google.com/spreadsheets/d/1KaFdfvQieXUIvZQYRpBuDB2mJC7Ol5nqYB-CgscENa4/edit#gid=0)
