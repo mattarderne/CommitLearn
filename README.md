@@ -22,6 +22,7 @@ Curated Podcast Learning Paths
 
 ## Future Features
 1. Customized learning paths
+   * quiz to onboard
 1. Audio-to-Text to more accurately identify scope of content
 1. App to quiz listeners
 1. Custom recorded bridging audio to summarize
@@ -30,3 +31,22 @@ Curated Podcast Learning Paths
 
 
 [Google Doc for now](https://docs.google.com/spreadsheets/d/1KaFdfvQieXUIvZQYRpBuDB2mJC7Ol5nqYB-CgscENa4/edit#gid=0)
+
+
+# Principles 
+## Why
+* Encourage & Enable learning
+* Open access, open contribution
+* Broad access to knowledge is essential to humanity
+* Another medium of learning
+
+## How
+* Long format audio (podcasts)
+* Specific Learning Outcomes
+* Focus on AI, Philosophy, Ethics
+* Community curated through Github & rewarded by number of commits
+* Generate revenue through Patreon / other?
+
+## What
+1. **Listeners** Advertising > Website > Appropriate Stream > App or XML
+1. **Contributors** Create Learning Design > Identify Podcasts > *\*Record content* > Submit for Review 
