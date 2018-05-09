@@ -1,7 +1,7 @@
 # CommitLearn
 Curated Podcast Learning Paths
 
-[XML Example](https://s3.amazonaws.com/aws-website-matt-fe1iw/ai-podcasts-img.xml) (open with Podcast App on your phone)
+[XML Example](https://s3.amazonaws.com/aws-website-matt-fe1iw/ai-podcasts-img.xml) (open with Podcast App on your iPhone)
 
 ## Infrastructure
 * XML files hosted on S3 as file feeds
@@ -13,21 +13,24 @@ Curated Podcast Learning Paths
 
 ## Roadmap
 1. Build a POC example **3/5**
-1. Setup Git -> AWS integration **0/5**
-1. Build [Landing Page](https://s3.amazonaws.com/aws-website-matt-fe1iw/index.html) website **1/5**
-1. Build Onboarding [test](https://www.typeform.com/help/create-a-quiz/) for optimized learning path **0/5**
-1. Setup monetization / pateron account **0/5**
+1. Setup Git -> AWS integration (AWS to host XML of master branches) **0/5**
+1. Build [Landing Page](https://s3.amazonaws.com/aws-website-matt-fe1iw/index.html) website **0.1/5**
+1. Build Onboarding [test](https://www.typeform.com/help/create-a-quiz/) for customized learning path **0/5**
+1. Setup monetization / patreon account **0/5**
 1. ...
 1. ...? Learning? Amazing!
 
 ## Future Features
-1. Customized learning paths
-   * quiz to onboard
+1. Pay contributors per commit for any advertising revenue
+1. Customized learning paths to give customized learning experience
+   * quiz to onboard and measure baseline & expected outcomes
 1. Audio-to-Text to more accurately identify scope of content
-1. App to quiz listeners
-1. Custom recorded bridging audio to summarize
+1. App to quiz listeners and measure learning (competency based education)
+1. Custom recorded bridging audio to summarize contents and segue from one concept to another
 
-
+## Issues / Stucks
+1. Content
+1. Ease of use of opening XML URLs
 
 
 [Google Doc for now](https://docs.google.com/spreadsheets/d/1KaFdfvQieXUIvZQYRpBuDB2mJC7Ol5nqYB-CgscENa4/edit#gid=0)
@@ -35,7 +38,7 @@ Curated Podcast Learning Paths
 
 # Principles 
 ## Why
-* Encourage & Enable learning
+* Encourage & Enable Learning
 * Open access, open contribution
 * Broad access to knowledge is essential to humanity
 * Another medium of learning
