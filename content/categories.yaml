@@ -1,0 +1,11 @@
+# categories.yaml file
+
+themes:
+
+  - Tech
+  - Medicine
+
+types:
+
+  - Entertainment
+  - Educational

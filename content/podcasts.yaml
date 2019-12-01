@@ -1,0 +1,22 @@
+# podcasts.yaml file
+
+active: True
+date_created: 2019-12-01T02:59:43.1Z
+title: AI listening list
+link: "https://podcastapp.io/playlists/"
+description: All the podcasts you need to get-good with AI
+docs: "http://www.rssboard.org/rss-specification"
+generator: python-feedgen
+lastBuildDate: Thu, 19 Apr 2018 11:15:37 +0000
+itunesimage: "https://s3.amazonaws.com/aws-website-matt-fe1iw/AI.png"
+episode: 
+  number: 1
+  title: The McKinsey Podcast - How to win in the age of analytics
+  url: "http://podcasts.mckinsey.com/podcast/MP-How-to-win-in-the-age-of-analytics.mp3"
+  description: There’s greater potential in big data. What’s ahead as the field matures
+episode: 
+  number: 2
+  title: The McKinsey Podcast - How to win in the age of analytics
+  url: "http://podcasts.mckinsey.com/podcast/MP-How-to-win-in-the-age-of-analytics.mp3"
+  description: There’s greater potential in big data. What’s ahead as the field matures
+

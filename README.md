@@ -61,3 +61,7 @@ python3 -m venv ~/.virtualenvs/commitlearn
 source ~/.virtualenvs/commitlearn/bin/activate
 pip install -r requirements.txt 
 ```
+
+## YAML
+
+[YAML format](https://learnxinyminutes.com/docs/yaml/)

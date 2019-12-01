@@ -1,0 +1,22 @@
+# podcasts.yaml file
+
+active:
+date_created:
+title:
+link:
+description:
+docs:
+generator:
+lastBuildDate:
+itunesimage:
+episode:
+  number:
+  title:
+  url:
+  description:
+episode:
+  number:
+  title:
+  url:
+  description:
+
