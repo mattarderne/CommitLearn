@@ -53,3 +53,11 @@ Curated Podcast Learning Paths
 ## What
 1. **Listeners** Advertising > Website > Appropriate Stream > App or XML
 1. **Contributors** Create Learning Design > Identify Podcasts > *\*Record content* > Submit for Review 
+
+# Python app
+
+```
+python3 -m venv ~/.virtualenvs/commitlearn
+source ~/.virtualenvs/commitlearn/bin/activate
+pip install -r requirements.txt 
+```
