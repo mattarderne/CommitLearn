@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Intro to Hyperthyroidism and Graves Disease</title>
+    <link>http://rdrn.dev/CommitLearn/</link>
+    <description>Hyperthyroidism and Graves Disease are complicated and under-researched diseases. This set of podcasts gives a good intro to the topics and points of contention. </description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Thu, 19 Apr 2018 11:15:37 +0000</lastBuildDate>
+    <itunes:image href="https://s3.amazonaws.com/aws-website-matt-fe1iw/AI.png"/>
+    <item>
+      <title>1: Kimberly Dorris - A Comprehensive Analysis of Graves' Disease</title>
+      <link>http://traffic.libsyn.com/docthyroid/Dorris_final.mp3</link>
+      <description>This episode is a thorough presentation of Graves' Disease from Kimberly Dorris, an educator and expert, and also a patient.  In this episode, listeners will gain a thorough understanding of a disease that is often confused with other diagnosis.  </description>
+      <guid isPermaLink="false">http://traffic.libsyn.com/docthyroid/Dorris_final.mp3</guid>
+      <enclosure url="http://traffic.libsyn.com/docthyroid/Dorris_final.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>2: Thyroid and Pregnancy - Why It Matters</title>
+      <link>http://traffic.libsyn.com/docthyroid/Elizabeth_Pearce.mp3</link>
+      <description>This episode is a thorough presentation of Graves' Disease from Kimberly Dorris, an educator and expert, and also a patient.  In this episode, listeners will gain a thorough understanding of a disease that is often confused with other diagnosis.  </description>
+      <guid isPermaLink="false">http://traffic.libsyn.com/docthyroid/Elizabeth_Pearce.mp3</guid>
+      <enclosure url="http://traffic.libsyn.com/docthyroid/Elizabeth_Pearce.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

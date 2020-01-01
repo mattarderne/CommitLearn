@@ -57,11 +57,15 @@ Curated Podcast Learning Paths
 # Python app
 
 ```
-python3 -m venv ~/.virtualenvs/commitlearn
-source ~/.virtualenvs/commitlearn/bin/activate
+python3 -m venv ~/.virtualenvs/commit
+source ~/.virtualenvs/commit/bin/activate
 pip install -r requirements.txt 
 ```
 
 ## YAML
 
 [YAML format](https://learnxinyminutes.com/docs/yaml/)
+More https://stackoverflow.com/questions/49029459/read-yaml-file-and-create-python-objects
+
+Libraries
+- [python-feedgen](https://github.com/lkiesow/python-feedgen)
